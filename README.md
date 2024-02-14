@@ -5,6 +5,8 @@ The [Node.js](http://nodejs.org) version of [Share Clipboard](http://langui.net/
 
 With the help of [Share Clipboard](http://langui.net/share-clipboard/ "Share Clipboard") apps, you can even share the clipboard text with iOS devices.
 
+This is a fork of the original Github page. While this may still work with iOS devices, it is not guaranteed. This fork simply fixes a deprecation error found in the code.
+
 How to Use
 ----------
 
@@ -31,6 +33,8 @@ Share Clipboard / Share Clip Apps
 ---------------------------------
 
 Share Clipboard / Share Clip is also availble as native apps, check them out if you are interested.
+
+Note: These may not be maintained.
 
 Share Clipboard for iOS:  
 [http://itunes.apple.com/app/share-clipboard/id519596127?mt=8](http://itunes.apple.com/app/share-clipboard/id519596127?mt=8 "Share Clipboard for iOS")
